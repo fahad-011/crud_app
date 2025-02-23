@@ -1,8 +1,6 @@
 # crud_app
 
 <!--
-/*
-
 backend/
 │── node_modules/
 │── config/
